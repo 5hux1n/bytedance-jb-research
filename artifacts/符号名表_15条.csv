@@ -1,0 +1,16 @@
+序号,明文,番茄Reading地址,红果Eggplant地址,加密变体,备注
+1,dladdr,0x112F3C29A,0x11335A19A,v2,运行期符号解析入口
+2,stat,0x112F3C2C5,0x11335A1C5,v2,libc 符号名（运行期 dlsym 解析）
+3,lstat,0x112F3C2CA,0x11335A1CA,v1,libc 符号名
+4,fopen,0x112F3C2D0,0x11335A1D0,v1,libc 符号名
+5,__opendir2,0x112F3C2DE,0x11335A1DE,v2,libc 符号名
+6,getifaddrs,0x112F3C312,0x11335A212,v1,网络接口枚举
+7,CCCryptorCreateWithMode,0x112F3C330,0x11335A230,v1,CommonCrypto（抖音也在）
+8,CCCryptorUpdate,0x112F3C348,0x11335A248,v2,CommonCrypto
+9,CFNetworkCopySystemProxySettings,0x112F3C360,0x11335A260,v2,代理检测（抖音也在）
+10,CFBundleIdentifier,0x112F3C390,0x11335A290,v1,bundle 标识（抖音也在）
+11,Filter,0x112F3C3A3,0x11335A2A3,v1,
+12,.plist,0x112F3C3B2,0x11335A2B2,v1,
+13,libdyld.dylib,0x112F3C3B9,0x11335A2B9,v1,
+14,libcommonCrypto.dylib,0x112F3C430,0x11335A330,v2,CommonCrypto 库名（抖音也在）
+15,CFNetwork,0x112F3C446,0x11335A346,v1,

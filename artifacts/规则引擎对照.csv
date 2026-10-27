@@ -1,0 +1,4 @@
+App,规则条目数,键名范围,注册函数,VM读原语,VM写原语,槽位公式,备注
+番茄 Reading,15,G0 + CF0..CFD,0x10185ADF8,0x1019A08E4,0x1019A08F0,ctx+0x6070+idx*8,本构建中静态不可达/运行期0调用
+红果 Eggplant,15,G0 + CF0..CFD,0x1017DBDD0,同构,同构,ctx+0x6070+idx*8,与番茄同构
+抖音 AwemeCore,66,G0..G7 + CF0..CF39,0x77AB3B4,0x78BDAB8,0x78BDAC4,ctx+0x6070+idx*8,VM原语与番茄逐字节同构,规则规模更大

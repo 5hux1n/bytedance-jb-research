@@ -1,0 +1,21 @@
+地址,加密变体,明文,类别,是否原报告新增
+0x112F6E84E,v1,/.cydia_no_stash,Cydia路径,
+0x112F6EAA0,v2,/Applications/Cydia.app,Cydia路径,
+0x112F6E93E,v1,/Library/MobileSubstrate/MobileSubstrate.dylib,Substrate路径,
+0x112F6ED4E,v1,/System/Library/LaunchDaemons/com.saurik.Cydia.Startup.plist,Cydia路径,
+0x112F6E7D0,v2,/etc/apt/sources.list.d/sileo.sources,Sileo路径,
+0x112F6E990,v2,/jb/amfid_payload.dylib,传统越狱路径,
+0x112F6E970,v1,/jb/jailbreakd.plist,传统越狱路径,
+0x112F6E9B0,v2,/jb/libjailbreak.dylib,传统越狱路径,
+0x112F6EB8E,v1,/private/var/tmp/cydia.log,Cydia路径,
+0x112F6E820,v2,/usr/lib/libjailbreak.dylib,传统越狱路径,
+0x112F6E8B0,v2,/usr/share/jailbreak/injectme.plist,传统越狱路径,
+0x112F6E910,v2,/var/lib/dpkg/info/mobilesubstrate.md5sums,Substrate路径,
+0x112F35F5E,v1,/var/mobile/Library/Preferences/com.saurik.Cydia.plist,Cydia路径,
+0x112F6ECDF,v1,/Library/MobileSubstrate/CydiaSubstrate.dylib,Substrate路径,
+0x112F15D70,v2,com.opa334.Dopamine,Dopamine(rootless) bundle-id,是
+0x112F15F0E,v1,com.opa334.Dopamine.roothide,Dopamine roothide变种 bundle-id,是
+0x112F15EEE,v1,com.roothide.manager,roothide管理器 bundle-id,是
+0x112F15DDE,v1,com.roothide.manager.plist,roothide plist,是
+0x112F15E70,v2,com.xina.jailbreak.plist,Xina越狱 plist,是
+0x112F15ED0,v2,com.xina.blacklist.plist,Xina plist,是

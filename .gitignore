@@ -1,0 +1,20 @@
+# Never commit binaries or IDA databases
+*.ipa
+*.app/
+Payload/
+*.dylib
+*.bin
+Reading
+Eggplant
+AwemeCore
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.i64
+*.idb
+# raw dumps / full string pool
+const_strings.json
+*.dump
+*.raw
